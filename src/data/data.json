@@ -1,10 +1,10 @@
 {
   "Header": {
     "title": "S-Trip",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "Chúng tôi sẽ mang lại cho bạn 1 chuyến đi tuyệt vời."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "S-Trip là ứng dụng đặt xe giúp cho những người muốn về quê mà không sở hưu xe hoặc không muốn chịu đựng cảnh tắt đường trong dịp lễ.",
     "Why": [
       "Nhanh chóng",
       "Tiện lợi",
@@ -21,48 +21,48 @@
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "img/portfolio/D1.png",
+      "smallImage": "img/portfolio/D1.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "img/portfolio/D2.png",
+      "smallImage": "img/portfolio/D2.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "img/portfolio/D3.png",
+      "smallImage": "img/portfolio/D3.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "largeImage": "img/portfolio/D4.png",
+      "smallImage": "img/portfolio/D4.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "largeImage": "img/portfolio/D5.png",
+      "smallImage": "img/portfolio/D5.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "largeImage": "img/portfolio/D6.png",
+      "smallImage": "img/portfolio/D6.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "largeImage": "img/portfolio/D7.png",
+      "smallImage": "img/portfolio/D7.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "largeImage": "img/portfolio/D8.png",
+      "smallImage": "img/portfolio/D8.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "largeImage": "img/portfolio/D9.png",
+      "smallImage": "img/portfolio/D9.png"
     }
   ],
   "Services": [
@@ -101,32 +101,32 @@
     {
       "img": "img/testimonials/01.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Người dùng 1"
     },
     {
       "img": "img/testimonials/02.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Người dùng 2"
     },
     {
       "img": "img/testimonials/03.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Người dùng 3"
     },
     {
       "img": "img/testimonials/04.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Người dùng 4"
     },
     {
       "img": "img/testimonials/05.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Người dùng 5"
     },
     {
       "img": "img/testimonials/06.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Người dùng 6"
     }
   ],
   "Team": [
@@ -150,6 +150,7 @@
       "name": "Karen Doe",
       "job": "Project Manager"
     }
+    
   ],
   "Contact": {
     "address": "FPT School",

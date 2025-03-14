@@ -21,8 +21,6 @@ export const Contact = (props) => {
     e.preventDefault();
     console.log(name, email, message);
     
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-    
     emailjs
       .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
       .then(
@@ -42,10 +40,10 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Liên Hệ với chúng tôi nèkasdfasdfk</h2>
+                <h2>Liên Hệ với chúng tôi</h2>
                 <p>
-                Vui lòng điền vào biểu mẫu bên dưới để gửi email cho chúng tôi và chúng tôi 
-                sẽ liên hệ lại với bạn trong thời gian sớm nhất.
+                  Vui lòng điền vào biểu mẫu bên dưới để gửi email cho chúng tôi
+                  và chúng tôi sẽ liên hệ lại với bạn trong thời gian sớm nhất.
                 </p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
@@ -112,7 +110,7 @@ export const Contact = (props) => {
               <p>
                 <span>
                   <i className="fa fa-phone"></i> Phone
-                </span>{" "}
+                </span>
                 {props.data ? props.data.phone : "loading"}
               </p>
             </div>
@@ -120,7 +118,7 @@ export const Contact = (props) => {
               <p>
                 <span>
                   <i className="fa fa-envelope-o"></i> Email
-                </span>{" "}
+                </span>
                 {props.data ? props.data.email : "loading"}
               </p>
             </div>
@@ -152,12 +150,7 @@ export const Contact = (props) => {
       </div>
       <div id="footer">
         <div className="container text-center">
-          <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
-          </p>
+          <p>&copy; 2025 Powered By S-Trip Team</p>
         </div>
       </div>
     </div>

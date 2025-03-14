@@ -11,16 +11,18 @@ export const Navigation = (props) => {
             data-toggle="collapse"
             data-target="#bs-example-navbar-collapse-1"
           >
-            {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
+            <span className="sr-only">Toggle navigation</span>
+            <span className="icon-bar"></span>
+            <span className="icon-bar"></span>
+            <span className="icon-bar"></span>
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            <img src="/img/icon.png" style={{ width: "60px", height: "60px" }} />
+            <img
+              src="/img/icon.png"
+              style={{ width: "60px", height: "60px" }}
+            />
             {/* S-Trip */}
-          </a>{" "}
+          </a>
         </div>
 
         <div
