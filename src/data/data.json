@@ -13,9 +13,9 @@
     ],
     "Why2": [
       "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
+      "Aliquip ex ea commodo",
       "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Aliquip ex ea commodo"
     ]
   },
   "Gallery": [
@@ -73,59 +73,59 @@
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Đặt xe theo lịch trình trước",
+      "text": "Tùy chỉnh điểm đón và trả theo nhu cầu cá nhân"
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "",
+      "text": ""
     },
     {
       "icon": "fa fa-language",
       "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "",
+      "text": ""
     },
     {
       "icon": "fa fa-pie-chart",
       "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "Người dùng 1"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "Người dùng 2"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "Người dùng 3"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "Người dùng 4"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "Người dùng 5"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "Người dùng 6"
     }
   ],
@@ -164,22 +164,22 @@
     {
       "icon": "fa fa-comments-o",
       "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": " sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-bullhorn",
       "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": " sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-group",
       "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": " sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-magic",
       "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": " sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]
 }
