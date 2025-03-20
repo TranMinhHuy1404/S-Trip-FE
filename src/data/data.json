@@ -99,32 +99,32 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "aaaaaaaaaaaaaaaaaaaaaa",
+      "text": "Tài xế thân thiện, xe sạch sẽ, và giá cả hợp lý. Tôi thích tính năng chia sẻ chi phí với bạn bè khi đi chung xe.",
       "name": "Người dùng 1"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "aaaaaaaaaaaaaaaaaaaaaa",
+      "text": "Ứng dụng hoạt động mượt mà, nhưng đôi khi gặp vấn đề khi tìm tài xế vào giờ cao điểm.",
       "name": "Người dùng 2"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "aaaaaaaaaaaaaaaaaaaaaa",
+      "text": "Lúc đầu tôi thấy giá rất hợp lý, nhưng gần đây cước phí tăng lên khá nhiều vào giờ cao điểm. Cần có chính sách giá rõ ràng hơn để khách hàng dễ dự đoán chi phí.",
       "name": "Người dùng 3"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "aaaaaaaaaaaaaaaaaaaaaa",
+      "text": "Mình đã thử dùng vài lần nhưng hay gặp lỗi khi đặt xe. Một số tài xế hủy chuyến mà không có lý do rõ ràng. Hy vọng nhà phát triển sẽ khắc phục trong bản cập nhật tới.",
       "name": "Người dùng 4"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "aaaaaaaaaaaaaaaaaaaaaa",
+      "text": "Tài xế đến trễ gần 30 phút và không thông báo trước. Ứng dụng không có chức năng hỗ trợ trực tuyến nhanh chóng. Tôi sẽ tìm một ứng dụng khác đáng tin cậy hơn.",
       "name": "Người dùng 5"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "aaaaaaaaaaaaaaaaaaaaaa",
+      "text": "Tính năng chia sẻ chuyến đi giúp tiết kiệm đáng kể chi phí. Tuy nhiên, đôi khi ứng dụng ghép xe với những tuyến đường không thực sự thuận lợi.",
       "name": "Người dùng 6"
     }
   ],
