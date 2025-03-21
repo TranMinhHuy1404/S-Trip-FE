@@ -19,7 +19,7 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Đà Lạt",
       "largeImage": "img/portfolio/D1.png",
       "smallImage": "img/portfolio/D1.png"
     },
@@ -49,17 +49,17 @@
       "smallImage": "img/portfolio/D6.png"
     },
     {
-      "title": "Project Title",
+      "title": "Fansipan",
       "largeImage": "img/portfolio/D7.png",
       "smallImage": "img/portfolio/D7.png"
     },
     {
-      "title": "Project Title",
+      "title": "Hồ Hoàn Kiếm",
       "largeImage": "img/portfolio/D8.png",
       "smallImage": "img/portfolio/D8.png"
     },
     {
-      "title": "Project Title",
+      "title": "Vịnh Hạ Long",
       "largeImage": "img/portfolio/D9.png",
       "smallImage": "img/portfolio/D9.png"
     }
