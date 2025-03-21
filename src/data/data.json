@@ -161,9 +161,9 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "aaaaaaaaaaaaaaaaaaaaaa."
+      "icon": "fa fa-user",
+      "title": "Đăng ký & Xác minh tài khoản",
+      "text": "Đăng ký, xác minh danh tính tài xế, hành khách."
     },
     {
       "icon": "fa fa-bullhorn",
