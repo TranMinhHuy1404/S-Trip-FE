@@ -167,18 +167,18 @@
     },
     {
       "icon": "fa fa-globe",
-      "title": "Tạo chuyến đi",
+      "title": "Tạo và đăng chuyến đi",
       "text": ""
     },
     {
       "icon": "fa fa-money",
-      "title": "Hiển thị giá cả minh bạch",
+      "title": "Thanh toán linh hoạt",
       "text": ""
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "aaaaaaaaaaaaaaaaaaaaaa."
+      "icon": "fa fa-comment",
+      "title": "Hệ thống đánh giá & phản hồi",
+      "text": ""
     }
   ]
 }
